@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="styles.css">
+<meta charset="utf-8">
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<title>Mod 2</title>
+</head>
+<body>
+<h1>Base Character Classes</h1>
+<div class='row'>
+	<div class='col-lg-4 col-md-6 sx-12'>
+		<div class='section'>
+			<span id='nr1'>Warrior</span>
+				<p>Skilled in the use of arms & armor, the Warrior is adept at hand-to-hand combat and is not afraid to take many blows that would make a mere man crumble.</p>
+		</div>
+	</div>
+	<div class='col-lg-4 col-md-6 sx-12'>
+		<div class='section'>
+			<span id='nr2'>Archer</span>
+				<p>Range is the keyword for this class as the Archer flings arrows from a distance. While not the healthiest character their natural speed and reflexes serve as their protection in battle.</p>
+		</div>
+	</div>
+	<div class='col-lg-4 col-md-12 sx-12'>
+		<div class='section'>
+			<span id='nr3'>Mage</span>
+				<p>In terms of defense, this class is limited in protective gear and arms. To make up for that the Mage has powerful spells to employ which, if used wisely, can allow them to stand toe-to-toe with even the most skilled foe.</p>
+		</div>
+	</div>
+</div>
+</body>
+</html>
